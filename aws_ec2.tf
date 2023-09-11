@@ -9,3 +9,4 @@ security_groups = ["launch-wizard-4"]
 tags = {
 Name = "tomcatservers"
 }
+}
